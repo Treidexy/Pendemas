@@ -1,0 +1,22 @@
+{
+	"main": {
+		"fullscreen": false,
+		"width": 1000,
+		"height": 800
+	},
+	"cure-guesser": {
+		"fullscreen": false,
+		"width": 500,
+		"height": 400
+	},
+	"win": {
+		"fullscreen": false,
+		"width": 1000,
+		"height": 800
+	},
+	"lose": {
+		"fullscreen": false,
+		"width": 1000,
+		"height": 800
+	}
+}

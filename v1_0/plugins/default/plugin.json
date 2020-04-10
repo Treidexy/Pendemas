@@ -1,0 +1,22 @@
+{
+	"about": {
+		"name": "Default Plugin",
+		"author": "Treidex"
+	},
+	"screen": {
+		"fullscreen": false,
+		"width": 1000,
+		"height": 800
+	},
+	"gameplay": {
+		"animals": 1000000,
+		"start-infections": 11,
+		"fps": 60,
+		"spread-chance": 1000,
+		"death-chance": 6969,
+		"immune": 0,
+		"play-song": false
+	},
+	"song-path": "$main/PendemasTheme.mp3",
+	"comments": "code: 'screens' overrites 'screen'"
+}
