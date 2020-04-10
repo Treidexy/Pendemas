@@ -1,4 +1,4 @@
 # Pendemas
-## By Treidex
+## - By Treidex
 -------------- 
 Save the animals from a pandemic!
