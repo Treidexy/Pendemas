@@ -1,0 +1,18 @@
+[
+	{
+		"type": "cure",
+		"url": "codes/cure.json"
+	},
+	{
+		"type": "scenario",
+		"url": "codes/scenario.json"
+	},
+	{
+		"type": "scenario_chances",
+		"url": "codes/scenario_chances.json"
+	},
+	{
+		"type": "screens",
+		"url": "codes/screens.json"
+	}
+]

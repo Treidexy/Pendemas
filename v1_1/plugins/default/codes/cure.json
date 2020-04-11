@@ -1,0 +1,11 @@
+{
+	"cure-rate": 0,
+	"cure-rate-completion": 100,
+	"cure-rate-multiplier": 1,
+	"cure-rate-multiplier-increament": 0.75,
+	"cure-check-start": 100,
+	"cure-check-multiplier-range": [0.069, 0.14],
+	"cure-key-length": 6,
+	"cure-key-characters": "abcdefghijklmnopqrstuvwxyz1234567890",
+	"progress-chance": 10
+}

@@ -1,0 +1,18 @@
+{
+	"screen": {
+		"fullscreen": false,
+		"width": 1000,
+		"height": 800
+	},
+	"gameplay": {
+		"animals": 1000000,
+		"start-infections": 11,
+		"immune": 0,
+		"fps": 120,
+		"play-song": false,
+		"enable-plugins": true
+	},
+	"song-path": "/PendemasTheme.mp3",
+	"plugin-folder": "/plugins/default/",
+	"comments": "Plugins overrite this data!"
+}

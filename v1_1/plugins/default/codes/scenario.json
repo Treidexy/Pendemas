@@ -1,0 +1,8 @@
+{
+	"animal_shootings-range": [15, 151],
+	"immunity_count-range": [1, 25],
+	"pandemic_multiplier": 2,
+	"mutation_impact": 3,
+	"bacterial_damage": 100,
+	"suffocation": 0
+}
