@@ -9,4 +9,4 @@ It's a custimizable game! Customize the game using plugins! Take the default plu
 -------------
 The Pendemas jar file automatically installs the tools you need to customize your game!
 
-**(Note: does not install PenemasTheme.mp3. PendemasTheme.mp3 needs to be installed seperately)
+* *(Note: does not install PenemasTheme.mp3. PendemasTheme.mp3 needs to be installed seperately)*
